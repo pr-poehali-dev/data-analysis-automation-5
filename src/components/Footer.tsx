@@ -52,8 +52,8 @@ export default function Footer() {
               </div>
             </div>
             <div className="flex flex-col sm:flex-row justify-between items-start sm:items-end gap-4 sm:gap-0">
-              <h1 className="text-[14vw] sm:text-[12vw] lg:text-[11vw] leading-[0.8] mt-4 sm:mt-6 lg:mt-10 text-white font-bold tracking-tight">
-                СТЕПАНОВО
+              <h1 className="text-[8vw] sm:text-[7vw] lg:text-[6.5vw] leading-[0.8] mt-4 sm:mt-6 lg:mt-10 text-white font-bold tracking-tight">
+                СТЕПАНОВО ГОРОДИЩЕ
               </h1>
               <p className="text-neutral-400 text-sm sm:text-base">{new Date().getFullYear()} · Пермский край</p>
             </div>

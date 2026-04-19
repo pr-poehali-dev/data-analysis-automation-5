@@ -19,7 +19,7 @@ export default function Hero() {
         className="absolute inset-0 w-full h-full"
       >
         <img
-          src="/images/mountain-landscape.jpg"
+          src="https://cdn.poehali.dev/projects/3a4fb72d-4bca-4f6e-8f19-4c1c3d803eeb/bucket/c9f18dab-185f-42f5-b5ed-cc744cdcd935.jpg"
           alt="Степаново городище — деревенская усадьба в Пермском крае"
           className="w-full h-full object-cover"
         />
